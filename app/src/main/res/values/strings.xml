@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">It\'s Zidan\!</string>
+
+    <string name="heading_one">Mari Berkenalan\!</string>
+    <string name="heading_two">Kegiatan sehari- hari</string>
+    <string name="heading_three">Musik Favorit</string>
+
+    <string name="desc_one">Kamu ingin berkenalan denganku\? Bisa banget dengan aplikasi ini\!</string>
+    <string name="desc_two">Penasaran dengan kegiatan sehari- hari ku\? Cek sekarang juga\!</string>
+    <string name="desc_three">Tahukah kalian kalau aku suka mendengarkan lagu rock\? Cek yang lainnya juga\!</string>
+
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--  Home Description  -->
+    <string name="home_description">Halo nama saya Zidane! Tinggiku <b>167cm</b>, dengan berat badan <b>57Kg</b>. Aku pribadi yang periang dan sangat senang sekali berbaur dengan teman- teman di sekelilingku. Salam Kenal!</string>
+
+    <!--  Daily Activity Time-->
+    <string name="activity_time_1">06:00 - 07:00</string>
+    <string name="activity_time_2">07:00 - 08:00</string>
+    <string name="activity_time_3">08:00 - 10:00</string>
+    <string name="activity_time_4">10:00 - 11:00</string>
+    <string name="activity_time_5">11:00 - 13:00</string>
+    <string name="activity_time_6">13:00 - 14:00</string>
+    <string name="activity_time_7">14:00 - 16:00</string>
+    <string name="activity_time_8">16:00 - 18:00</string>
+    <string name="activity_time_9">18:00 - 19:00</string>
+    <string name="activity_time_10">19:00 - 20:00</string>
+    <string name="activity_time_11">20:00 - 22:00</string>
+    <string name="activity_time_12">22:00</string>
+
+
+    <!--  Daily Activity Title  -->
+    <string name="activity_title_1">Bangun tidur dan mandi</string>
+    <string name="activity_title_2">Sarapan</string>
+    <string name="activity_title_3">Kuliah</string>
+    <string name="activity_title_4">Istirahat</string>
+    <string name="activity_title_5">Mengerjakan tugas</string>
+    <string name="activity_title_6">Makan siang</string>
+    <string name="activity_title_7">Kuliah atau diskusi kelompok</string>
+    <string name="activity_title_8">Mengerjakan tugas atau proyek kuliah</string>
+    <string name="activity_title_9">Berolahraga atau aktivitas fisik</string>
+    <string name="activity_title_10">Makan malam</string>
+    <string name="activity_title_11">Belajar atau mengerjakan tugas</string>
+    <string name="activity_title_12"> Istirahat dan tidur</string>
+
+    <!--  Friend Name  -->
+    <string name="friend_name_1">Asep</string>
+    <string name="friend_name_2">Dede</string>
+    <string name="friend_name_3">Iwan</string>
+    <string name="friend_name_4">Ade</string>
+    <string name="friend_name_5">Udin</string>
+    <string name="friend_name_6">Yudi</string>
+    <string name="friend_name_7">Ahmad</string>
+    <string name="friend_name_8">Rudi</string>
+    <string name="friend_name_9">Dadang</string>
+    <string name="friend_name_10">Tatang</string>
+
+    <string name="galeri_caption_1">Foto1</string>
+    <string name="galeri_caption_2">Foto2</string>
+    <string name="galeri_caption_3">Foto3</string>
+    <string name="galeri_caption_4">Foto4</string>
+
+    <!--  Judul Lagu  -->
+    <string name="music_title_1">Sanggupkah Aku (1995)</string>
+    <string name="music_title_2">Malam Biru (2007)</string>
+    <string name="music_title_3">Bento (1988)</string>
+    <string name="music_title_4">All Out of Love (1980)</string>
+    <string name="music_title_5">Don\'t Cry (1991)</string>
+
+    <!--  Music Artist Text  -->
+    <string name="music_artist_1">Andy Liany</string>
+    <string name="music_artist_2">Sandy Sandoro</string>
+    <string name="music_artist_3">Iwan Fals</string>
+    <string name="music_artist_4">Air Supply</string>
+    <string name="music_artist_5">Guns N\' Roses</string>
+
+    <!--  Profile  -->
+    <string name="profile">Nama Ku <b>Zidane Maulana</b>! Panggil saja aku <b>Zidan</b>. Aku lahir pada tanggal <b>31 Oktober 200</b>. Saat ini aku sedang berkuliah di UNIKOM! Dukung aku terus ya!!!</string>
+
+</resources>

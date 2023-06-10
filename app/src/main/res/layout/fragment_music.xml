@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NIM     : 10120767
+    Kelas   : IF-9
+    Nama    : Zidane Maulana
+    -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MusicFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="56dp"
+        >
+
+        <TextView
+            android:id="@+id/titleTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="My Top 5 Pick"
+            android:textSize="25sp"
+            android:fontFamily="@font/roboto_bold"
+            android:padding="16dp"
+            android:textColor="@color/black" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_weight="1"
+            tools:listitem="@layout/music_list_item" />
+
+        <TextView
+            android:id="@+id/titleFriendList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="My Favorite Music Video"
+            android:textSize="25sp"
+            android:fontFamily="@font/roboto_bold"
+            android:paddingTop="25dp"
+            android:paddingLeft="16dp"
+            android:textColor="@color/black" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youtubePlayerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="jpGckPKSqzM"
+            android:layout_marginHorizontal="16sp"
+            android:layout_marginTop="20sp"
+            android:layout_marginBottom="16sp"/>
+
+    </LinearLayout>
+</FrameLayout>
